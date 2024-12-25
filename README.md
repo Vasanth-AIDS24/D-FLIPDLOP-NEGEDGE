@@ -71,7 +71,7 @@ D FLIP FLOP:
 ```
 D FLIP FLOP
 ```
-![image](https://github.com/user-attachments/assets/6b83adaa-2397-4e92-ab9f-dcf90b0ad17a)
+![image](https://github.com/user-attachments/assets/6b425d14-c5f1-444c-aa4a-12916324411c)
 
 
 
